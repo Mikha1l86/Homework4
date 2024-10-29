@@ -8,7 +8,6 @@ public class Main {
             System.out.println("Если возраст человека равен " + age + " он не достиг совершеннолетия, нужно немного подождать.");
         }
     }
-
     //Задача 2
     static {
         int temperature = -1;
