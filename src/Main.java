@@ -14,8 +14,7 @@ public class Main {
         if (temperature >= 5) {
             System.out.println("На улице " + temperature + " градусов, можно идти без шапки.");
         } else {
-            System.out.println("На улице " + temperature + " нужно надеть шапку.");
-        }
+            System.out.println("На улице " + temperature + " нужно надеть шапку.");        }
     }
     //Задача 3
     static {
