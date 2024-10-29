@@ -17,7 +17,6 @@ public class Main {
             System.out.println("На улице " + temperature + " нужно надеть шапку.");
         }
     }
-
     //Задача 3
     static {
         int speed = 10;
